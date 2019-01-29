@@ -1,7 +1,5 @@
 # ML Kit for Firebase
 
-[![pub package](https://img.shields.io/pub/v/firebase_ml_vision.svg)](https://pub.dartlang.org/packages/firebase_ml_vision)
-
 A Flutter plugin to use the [ML Kit for Firebase API](https://firebase.google.com/docs/ml-kit/).
 
 For Flutter plugins for other Firebase products, see [FlutterFire.md](https://github.com/flutter/plugins/blob/master/FlutterFire.md).
